@@ -1,0 +1,3 @@
+his URL will be in the format https://<your-username>.github.io/<repository-name>/.
+
+file:///C:/Users/elija/OneDrive/Documents/School%20(ACU)/index.html
